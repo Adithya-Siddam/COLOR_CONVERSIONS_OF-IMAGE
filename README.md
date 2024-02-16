@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```
-### Developed By: S Adithya Chowdary.
-### Register Number: 212221230100.
+Developed By: S Adithya Chowdary.
+Register Number: 212221230100.
 ```
 <table>
   <tr>
